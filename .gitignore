@@ -1,0 +1,31 @@
+# Ignore VS Code settings folder
+.vscode/
+
+# Ignore compiled object files
+*.o
+*.obj
+
+# Ignore compiled executable files
+*.exe
+*.out
+*.app
+
+# Ignore debug and release folders (if used)
+Debug/
+Release/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore build directories
+build/
+cmake-build-*/
+
+# Ignore other IDE/editor specific files
+*.user
+*.suo
+*.ipch
+*.pdb
+*.idb
