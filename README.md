@@ -37,4 +37,3 @@ The project demonstrates *Data Structures concepts* such as:
 
 ---
 
-## 📂 Project Structure
